@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m @pjkea
 - 👀 I’m interested in AI, Machine Learning and Data Science
 - 🌱 I’m currently learning Data Analysis 
