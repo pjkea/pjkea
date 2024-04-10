@@ -2,9 +2,7 @@
 - 👋 Hi, I’m @pjkea
 - 👀 I’m interested in AI, Machine Learning and Data Science
 - 🌱 I’m currently learning Data Analysis 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jkessiful@gmail.com
-- 😄 Pronouns: ...
+- 📫 You can reach me at jkessiful@gmail.com
 - ⚡ Fun fact: I enjoy lazing around with a good book on my lap.
 
 <!---
